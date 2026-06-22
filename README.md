@@ -1,8 +1,9 @@
 # Space Simulator
 
-A 2D gravitational physics sandbox built with Python and Pygame. Simulate planetary systems, black holes, binary stars, wormholes, and more — in real time.
+A 2D gravitational physics sandbox built with Python and Pygame. Simulate planetary systems, black holes, binary stars, wormholes, etc. in real time.
 The purpose of this project was mainly to understand the capabilities of AI agents in coding. 
 I won't overstate the value of this exercise but as a beginner getting into python, it was useful for my mental map of how programs are written.
+any future updates to this project will be written by myself.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Pygame](https://img.shields.io/badge/Pygame-2.x-green)
 
