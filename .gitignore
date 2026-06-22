@@ -1,0 +1,7 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+dist/SpaceSim.exe
+spacesim_save.json
+.claude/
